@@ -1,0 +1,1 @@
+usernameemailnoOfProductsSELECT * FROM copyfinal.payment;

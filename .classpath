@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Eclipse files/src/main/java"/>
+	<classpathentry kind="src" path="OOP Final/src/main/java"/>
+	<classpathentry kind="lib" path="Eclipse files/src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-2.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="Eclipse files/src/main/webapp/WEB-INF/lib/javax.servlet-3.1.jar"/>
+	<classpathentry kind="lib" path="Eclipse files/src/main/webapp/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="Eclipse files/src/main/webapp/WEB-INF/lib/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="Eclipse files/src/main/webapp/WEB-INF/lib/junit-4.13.jar"/>
+	<classpathentry kind="lib" path="Eclipse files/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.48-bin.jar"/>
+	<classpathentry kind="lib" path="Eclipse files/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="lib" path="Eclipse files/src/main/webapp/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="OOP Final/src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-2.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="OOP Final/src/main/webapp/WEB-INF/lib/javax.servlet-3.1.jar"/>
+	<classpathentry kind="lib" path="OOP Final/src/main/webapp/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="OOP Final/src/main/webapp/WEB-INF/lib/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="OOP Final/src/main/webapp/WEB-INF/lib/junit-4.13.jar"/>
+	<classpathentry kind="lib" path="OOP Final/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.48-bin.jar"/>
+	<classpathentry kind="lib" path="OOP Final/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="lib" path="OOP Final/src/main/webapp/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="Eclipse files/build/classes"/>
+</classpath>
